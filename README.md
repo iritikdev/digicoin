@@ -1,4 +1,4 @@
-#Project Description: DigiCoin App - Real-Time Crypto Price and News Updates
+# Project Description: DigiCoin App - Real-Time Crypto Price and News Updates
 
 DigiCoin is a mobile application built using React and Material-UI (MUI) that provides real-time updates on the cryptocurrency market. The app sources its data from RapidAPI, a trusted and reliable API provider that delivers accurate and up-to-date information on crypto prices and news from a range of authentic sources.
 
