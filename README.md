@@ -1,8 +1,19 @@
-# Getting Started with Create React App
+#Project Description: DigiCoin App - Real-Time Crypto Price and News Updates
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+DigiCoin is a mobile application built using React and Material-UI (MUI) that provides real-time updates on the cryptocurrency market. The app sources its data from RapidAPI, a trusted and reliable API provider that delivers accurate and up-to-date information on crypto prices and news from a range of authentic sources.
 
-## Available Scripts
+The DigiCoin app is designed to provide users with a seamless and intuitive experience, with a user-friendly interface that allows for easy navigation and customization. Users can choose to view the latest prices and news on specific cryptocurrencies, or they can view a comprehensive overview of the entire market.
+
+The app's real-time pricing information includes the current market value, price change percentage, and trading volume for each cryptocurrency. Users can also access historical price data and trends to gain deeper insights into the market's performance.
+
+In addition to price updates, DigiCoin also provides users with the latest news from top crypto news sources such as CoinDesk, CryptoSlate, and Cointelegraph. The app's news section is regularly updated with breaking news, analysis, and opinion pieces, ensuring that users stay informed on the latest developments in the crypto industry.
+
+Overall, the DigiCoin app provides a reliable and convenient way for cryptocurrency enthusiasts to stay up-to-date on the latest market developments, with real-time pricing information and news updates from authentic sources, all accessible from a user-friendly interface.
+
+## 👉 Run this project on your computer 🖥️
+  - clone this repository.
+  - in root folder, run `npm install`
+  - run start
 
 In the project directory, you can run:
 
