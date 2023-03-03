@@ -15,6 +15,11 @@ Overall, the DigiCoin app provides a reliable and convenient way for cryptocurre
   - in root folder, run `npm install`
   - run start
 
+
+## Screenshot
+![Alt text](https://github.com/iritikdev/digicoin/blob/master/public/2.PNG)
+![Alt text](https://github.com/iritikdev/digicoin/blob/master/public/3.PNG)
+![Alt text](https://github.com/iritikdev/digicoin/blob/master/public/4.PNG)
 In the project directory, you can run:
 
 ### `npm start`
